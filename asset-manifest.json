@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pinkdollar123/reactpractice/static/css/main.3fcf71d8.css",
-    "main.js": "/pinkdollar123/reactpractice/static/js/main.ae941bdb.js",
-    "static/js/787.bc7d429a.chunk.js": "/pinkdollar123/reactpractice/static/js/787.bc7d429a.chunk.js",
-    "index.html": "/pinkdollar123/reactpractice/index.html",
-    "main.3fcf71d8.css.map": "/pinkdollar123/reactpractice/static/css/main.3fcf71d8.css.map",
-    "main.ae941bdb.js.map": "/pinkdollar123/reactpractice/static/js/main.ae941bdb.js.map",
-    "787.bc7d429a.chunk.js.map": "/pinkdollar123/reactpractice/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/reactpractice/static/css/main.3fcf71d8.css",
+    "main.js": "/reactpractice/static/js/main.cd61ffaf.js",
+    "static/js/787.bc7d429a.chunk.js": "/reactpractice/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/reactpractice/index.html",
+    "main.3fcf71d8.css.map": "/reactpractice/static/css/main.3fcf71d8.css.map",
+    "main.cd61ffaf.js.map": "/reactpractice/static/js/main.cd61ffaf.js.map",
+    "787.bc7d429a.chunk.js.map": "/reactpractice/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fcf71d8.css",
-    "static/js/main.ae941bdb.js"
+    "static/js/main.cd61ffaf.js"
   ]
 }
