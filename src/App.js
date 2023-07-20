@@ -1,22 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Greetings from './components/Greetings';
+import PropsIntro from './components/PropsIntro';
+import Table from './components/Table';
+// import EmployeeContainer from "./components/Employee";
+import Company from './components/Company';
+import CircleWrapper from './components/Circle';
+import Students from './components/Students';
 function App() {
+
+ 
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       Hello Zosimo React Developer
+       <PropsIntro />
+       <Greetings />
+       <Table />
+       <Students />
+       {/* <EmployeeContainer /> */}
+       <Company 
+        companyName = "Skillsoft"
+        designation = "Analyst"
+        committees = "Performance review, Data insights"
+        forums = "StackOverflow, DataHelper"/>
+        <CircleWrapper />
       </header>
     </div>
   );
